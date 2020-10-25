@@ -4,7 +4,8 @@ Project developed during the Next Level Week #2 - Taught by Mayk Brito -> Rocket
 
 Web Screenshot
 
-Days
+
+Days:
 
 Day 1 (03/08/2020) -> Acelerando sua evolução
 
@@ -16,21 +17,26 @@ Day 4 (06/08/2020) -> Até 2 anos em 2 meses
 
 Day 5 (07/08/2020) -> A minha extra
 
+
+
 Technologies used:
 
-HTML
+1-HTML
 
-CSS
+2-CSS
 
-JavaScript
+3-JavaScript
 
-Node.js
+4-Node.js
 
-Nunjucks
+5-Nunjucks
 
-SQLite
+6-SQLite
 
-License
+7-License
+
+
+
 
 This project is under the MIT license. See the LICENSE for details.
 
