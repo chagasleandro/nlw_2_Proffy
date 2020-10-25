@@ -5,6 +5,7 @@ Project developed during the Next Level Week #2 - Taught by Mayk Brito -> Rocket
 Web Screenshot
 
 Days
+
 Day 1 (03/08/2020) -> Acelerando sua evolução
 
 Day 2 (04/08/2020) -> Olhando as oportunidades
