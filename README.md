@@ -5,7 +5,7 @@
 <h3>Web Screenshot</h3>
 
 
-Days:
+<h3>Days:</h3>
 
 Day 1 (03/08/2020) -> Acelerando sua evolução
 
@@ -19,7 +19,7 @@ Day 5 (07/08/2020) -> A minha extra
 
 
 
-Technologies used:
+<h3>Technologies used:</h3>
 
 1-HTML
 
@@ -43,4 +43,4 @@ This project is under the MIT license. See the LICENSE for details.
 
 Contact
 
-Made by Leandro Chagas!
+Made by <h1>Leandro Chagas!</h1>
