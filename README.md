@@ -1,8 +1,8 @@
 # nlw_2_Proffy
-Sua Plataforma de estudos online
-Project developed during the Next Level Week #2 - Taught by Mayk Brito -> Rocketseat.
+<h1>Sua Plataforma de estudos online</h1>
+<h2>Project developed during the Next Level Week #2 - Taught by Mayk Brito -> Rocketseat.</h2>
 
-Web Screenshot
+<h3>Web Screenshot</h3>
 
 
 Days:
